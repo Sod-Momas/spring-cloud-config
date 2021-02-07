@@ -1,0 +1,6 @@
+foo: bar
+ch: 中文测试
+list:
+ - a
+ - b
+ - c
